@@ -1,3 +1,4 @@
+import React from "react";
 import MugenPOAPMintPage from "./MugenPOAPMintPage";
 
 function App() {
